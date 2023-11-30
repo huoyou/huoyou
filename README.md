@@ -7,7 +7,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/coding.gif" height="225px" />
+    <img src="https://github.com/huoyou/huoyou/blob/main/imgs/coding.gif" height="225px" />
   </picture>
 
   <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -33,7 +33,7 @@
   </picture>
 
   <!--LINE-->
-  <img src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/line.gif" height="20" width="100%">
+  <img src="https://github.com/huoyou/huoyou/blob/main/imgs/line.gif" height="20" width="100%">
 
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -48,11 +48,11 @@
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   <div align="center">
     <img width="150"
-      src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/chibang_left.png" />&emsp;
+      src="https://github.com/huoyou/huoyou/blob/main/imgs/chibang_left.png" />&emsp;
     <img align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=huoyou&theme=radical&hide_border=true" />
     &emsp;<img width="150"
-      src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/chibang_right.png" />
+      src="https://github.com/huoyou/huoyou/blob/main/imgs/chibang_right.png" />
   </div>
 
 
@@ -66,7 +66,7 @@
   </div>
 
   <!--LINE-->
-  <img src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/line.gif" height="20" width="100%">
+  <img src="https://github.com/huoyou/huoyou/blob/main/imgs/line.gif" height="20" width="100%">
 
   <!-- CSDN-bili 数据-->
   <div align="">
@@ -75,7 +75,7 @@
   </div>
 
   <!--LINE-->
-  <img src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/line.gif" height="20" width="100%">
+  <img src="https://github.com/huoyou/huoyou/blob/main/imgs/line.gif" height="20" width="100%">
 
 
   <!-- GitHub 数据统计 -->
@@ -87,6 +87,6 @@
   </picture>
 
   <!--LINE-->
-  <img src="https://gitee.com/huoyou/images_bed/blob/master/imgs/github/line.gif" height="20" width="100%">
+  <img src="https://github.com/huoyou/huoyou/blob/main/imgs/line.gif" height="20" width="100%">
 
 </div>
