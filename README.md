@@ -38,9 +38,9 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.xmeta.love"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a src=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a src="https://blog.csdn.net/weixin_43404937"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a src="https://juejin.cn/user/3403743731397838"><img src="https://img.shields.io/badge/JueJin-掘金-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_43404937"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://juejin.cn/user/3403743731397838"><img src="https://img.shields.io/badge/JueJin-掘金-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=huoyou&label=Views&color=orange&style=flat" alt="访问量统计" />
   </div>
